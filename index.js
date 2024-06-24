@@ -2,6 +2,7 @@
 import { faker } from "@faker-js/faker/locale/af_ZA";
 import chalk from "chalk";
 import inquirer from "inquirer";
+console.log("Account Number 1001 ,1002 1003 ");
 // Customer Class
 class Customer {
     // mobNumber: number;
